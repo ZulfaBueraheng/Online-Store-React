@@ -1,0 +1,46 @@
+
+[
+    {
+      "id": 1,
+      "campaign": "Fixed amount",
+      "category": "Coupon",
+      "parameters": {
+        "amount": 50
+      }
+    },
+    {
+      "id": 2,
+      "campaign": "Percentage discount",
+      "category": "Coupon",
+      "parameters": {
+        "percentage": 10
+      }
+    },
+    {
+      "id": 3,
+      "campaign": "Percentage discount by item category",
+      "category": "On Top",
+      "parameters": {
+        "category": "Clothing",
+        "percentage": 15
+      }
+    },
+    {
+      "id": 4,
+      "campaign": "Discount by points",
+      "category": "On Top",
+      "parameters": {
+        "points": 1000
+      }
+    },
+    {
+      "id": 5,
+      "campaign": "Special campaigns",
+      "category": "Seasonal",
+      "parameters": {
+        "everyXTHB": 300,
+        "discountYTHB": 40
+      }
+    }
+  ]
+  

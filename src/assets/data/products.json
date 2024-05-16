@@ -1,0 +1,39 @@
+
+[
+    {
+      "id": 1,
+      "name": "T-Shirt",
+      "price": 500,
+      "category": "Clothing",
+      "image": "./assets/image/TShirt.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Skirt",
+      "price": 400,
+      "category": "Clothing",
+      "image": "./assets/image/Skirt.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Necklace",
+      "price": 1000,
+      "category": "Accessories",
+      "image": "./assets/image/Necklace.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Hat",
+      "price": 400,
+      "category": "Accessories",
+      "image": "./assets/image/Hat.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Hair Dryer",
+      "price": 890,
+      "category": "Electronics",
+      "image": "./assets/image/HairDryer.jpg"
+    }
+  ]
+  
